@@ -1,7 +1,9 @@
 <h2 align="center">Hi ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align="center">
-</p>
-![visitors](https://api.visitorbadge.io/api/VisitorHit?user=120090162&repo=mujoco_unitree_rl&countColor=%237B1E7A)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=120090162&bg_color=d1e7ff&color=c6397d&line=ec1313&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F120090162%2Fmujoco_unitree_rl&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2F120090162%2Fmujoco_unitree_rl)
+
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-20`
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=120090162&show_icons=true&theme=tokyonight&line_height=27">
